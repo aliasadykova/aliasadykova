@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Алия 👋
 
-<!--
-**aliasadykova/aliasadykova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий аналитик данных, разносторонне развитая личность и просто хороший человек.  
+Интересуюсь SQL, Python и бизнес-аналитикой, аналитикой в сфере геймдева (не знаю, это просто очень завораживает: наблюдать за поведением людей в маленьких искусственных вселенных), маркетингом.
 
-Here are some ideas to get you started:
+## Навыки
+- SQL: SELECT, JOIN, GROUP BY, оконные функции, ранжирование, CTE, MetaBase
+- Python: Pandas, NumPy, Matplotlib, Jupyter Notebook
+- Excel: сводные таблицы, ВПР/XLOOKUP, очистка данных, визуализация, фильтрация, дашборд, сложные условные функции, очистка и агрегация данных
+- Статистика: описательная статистика, A/B-тесты — базовый уровень, прогнозирование (юнит-экономика), теория вероятностей
+- Бизнес-аналитика: метрики, приоритизация, сторителлинг
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты:
+В процессе добавления))
+
+## Контакты
+- Email: aliasadykova735@gmail.com
+- hh.ru: https://zelenograd.hh.ru/resume/9d2956bbff112a35320039ed1f4f726e503539
+
+## P.S: Файл будет обновляться каждую неделю, сейчас это моя вторая, но любимая работа))
